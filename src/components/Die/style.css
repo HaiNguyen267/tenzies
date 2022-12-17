@@ -1,0 +1,19 @@
+
+
+.Die {
+    width: 40px;
+    height: 40px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 1px 2px 3px 0.5px rgba(0, 0, 0, 0.29);
+    font-family: 'Anton', sans-serif;
+    cursor: pointer;
+}
+
+.green {
+    background: rgb(49, 255, 94);
+}
